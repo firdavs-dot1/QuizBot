@@ -1,0 +1,2218 @@
+{
+  "part1": [
+    {
+      "question_id": "1",
+      "question": "Psixologiya fan sifatida nimani o‘rganadi?",
+      "options": [
+        "Ongning xususiyati sifatida psixikaning dalillarini, qonuni va mexanizmlarini o‘rganadi",
+        "Bizning sezgilarimiz, fikrlarimiz, hissiyot va xulq-atvorimizni o‘rganadi",
+        "Inson ruhiy holatini va kechinmalarini o‘rganadigan fan",
+        "O‘ng jarayonlarni va uning qonuniyatlarini o‘rganadi"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "2",
+      "question": "‘Pedagogika’ fanining mustaqil fan sifatida rivojlanishiga qaysi olim hissa qo‘shgan?",
+      "options": [
+        "Ya.A. Komenskiy",
+        "Suxomlenskiy",
+        "Alisher Navoiy",
+        "Forobiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "3",
+      "question": "Psixika deb nimaga aytiladi?",
+      "options": [
+        "Yuksak darajada tashkil topgan materiyaning xususiyati bo‘lib, u tashqi olamni o‘ziga xos yo‘sinda aks ettirilishi",
+        "Miyaning mahsuli bo‘lib, asab tizimining vazifasidir",
+        "Insonning ruhi, uning ruhiy holati",
+        "Sezgi, fikr, hissiyotdir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "4",
+      "question": "Leksiya, praktikumlar, laboratoriya mashg‘ulotlari, seminarlar, konsultatsiyalar ta’limni tashkil etishning qaysi shakliga misol bo‘la oladi?",
+      "options": [
+        "Asosiy",
+        "Qo‘shimcha",
+        "Frontal",
+        "Guruhiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "5",
+      "question": "Pedagogik navotorlik – bu qanday xodisa?",
+      "options": [
+        "Yashirin, ijtimoiy-ruhiy xodisa",
+        "Yuksak – ahloqiy g‘oyalar",
+        "Keskin, murakkab, uzundan-uzun pedagogik kurash",
+        "Irodaviy ta’sir ko‘rsatish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "6",
+      "question": "Bola shaxsi necha yoshdan shakllanadi?",
+      "options": [
+        "3 yoshdan shakllanadi",
+        "5 yoshdan shakllanadi",
+        "6 yoshdan shakllanadi",
+        "10 yoshdan shakllanadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "7",
+      "question": "O‘quvchi intellekti – bu ... ?",
+      "options": [
+        "O‘quvchining aqliy salohiyatidir",
+        "O‘quvchining ta‘limdagi muvaffaqiyatidir",
+        "O‘quvchining sezgirligidir",
+        "O‘quvchining xulqidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "8",
+      "question": "Shaxslararo munosabatlar bu -……?",
+      "options": [
+        "Odamlar o’rtasida faoliyat va guruhlardagi muloqot jarayonida kelib chiqadigan munosabatlardir",
+        "Rahbar va unga bo’ysunuvchilar o’rtasidagi munosabatdir",
+        "Tarbiyachi va tarbiyalanuvchilar o’rtasidagi munosabatdir",
+        "Faoliyat jarayonida shaxslar o’rtasidagi dialog jarayonidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "9",
+      "question": "O‘quvchining xotirasi bu-……?",
+      "options": [
+        "O’quvchining o’tmish tajribalarini esda olib qolish, esda saqlash va qayta tiklash va unutish bilan bogliq bo’lgan psixik jarayondir",
+        "Avvalgi egallangan tajribalarni amaliy faoliyatda qo’llashdan iborat psixik jarayon",
+        "Odamning sezgi va idrokiga asoslangan o’z tajribalarini qayta tiklay olish qobiliyati",
+        "Avvalgi egallangan bilimlarni esda saqlash"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "10",
+      "question": "Sotsiometrik metod qanday usulda qo‘llaniladi?",
+      "options": [
+        "Anketa, savol-javob",
+        "Test",
+        "Savol",
+        "Suxbat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "11",
+      "question": "Shaxs komilligini belgilovchi sifatlarga nimalar kiradi?",
+      "options": [
+        "Jismoniy salomatlik, ahloqiy poklik, aqliy etuklik",
+        "Ahloqiy poklik",
+        "Aqliy etuklik",
+        "Jismoniy salomatlik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "12",
+      "question": "Tiflopedagogika qaysi tipdagi nogiron bolalarni o‘qitadi?",
+      "options": [
+        "Ko‘zi ojiz bolalarni o‘qitish",
+        "Nutqi yaxshi rivojlanmagan bolalarni o‘qitish",
+        "Soqov bolalarni o‘qitish",
+        "Ko‘zi ojiz va Soqov bolalarni o‘qitish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "13",
+      "question": "Ijtimoiy xodisa sifatida tarbiyaning mohiyati nimadan iborat?",
+      "options": [
+        "Insoniyat to‘plagan ijtimoiy – ma’naviy tajribalarni yosh avlodga o‘rgatish orqali ularni hayotga, mehnatga tayyorlash",
+        "Inson shaxsini har tomonlama rivojlantirish, o‘stirish, parvarish qilish",
+        "Yosh avlodga eng yaxshi umuminsoniy sifatlarni singdirish",
+        "Yosh avlodni ijtimoiy munosabatlarga tayyorlash"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "14",
+      "question": "‘Tarbiya bizlar uchun yo hayot - yo mamot, yo najot - yo xaloqat, yo saodat, yo faloqat masalasidir’. Yuqoridagi fikrlar kimning fikrlari?",
+      "options": [
+        "Abdulla Avloniy",
+        "Abu Ali ibn Sino",
+        "Alisher Navoiy",
+        "Amir Temur"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "15",
+      "question": "Psixologiyada asosiy metodlarga qaysi metodlar kiradi?",
+      "options": [
+        "Kuzatish va eksperiment metodi",
+        "Test metodi",
+        "So‘roq metodi",
+        "Inson faoliyatining mahsulotlarini o‘rganish metodi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "16",
+      "question": "Tarbiyaning tarixiy xarakteri deganda nima tushunasiz?",
+      "options": [
+        "Jamiyatning ijtimoiy – iqtisodiy taraqqiyoti bilan bog‘liq holda tarbiya xarakteri, mazmuni, vazifalari, metodlarining o‘zgarib borishi",
+        "O‘quvchilarni har bir xalqning tarixiy an’analari ruhida tarbiyalashni tushunamiz",
+        "Inson tarbiyasini u yashagan tarixiy sharoit bilan bog‘liq xolda amalga oshirilishi",
+        "Tarbiyaning tarixiy rivojlanish bilan, tarix fani bilan bog‘liqligini tushunamiz"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "17",
+      "question": "Umuminsoniy tarbiyaviy qadriyatlarga nimalar kiradi?",
+      "options": [
+        "Barcha xalqlar uchun umumiy bo‘lgan ilg‘or tarbiyaviy g‘oyalar, an’analar",
+        "Butun insoniyatning ta’lim – tarbiya sohasidagi tajribalari",
+        "Tarbiyada barcha insonlarning qadr – qimmatini hurmat qilish",
+        "Barcha millatlarga xos axloqiy normalar"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "18",
+      "question": "Pedagogika fanining asosiy tushunchalari qaysilar?",
+      "options": [
+        "Tarbiya, ta’lim, ma’lumot. Rivojlanish, shakllanish",
+        "O‘qitish, tarbiyalash, o‘qituvchi, ma’lumot",
+        "Ta’lim, didaktika, ma’lumot, metod",
+        "O‘qituvchi, ta’lim – tarbiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "19",
+      "question": "Qobiliyatni nima tashkil etadi?",
+      "options": [
+        "Layoqat, iqtidor, iste’dod",
+        "Iqtidor",
+        "Layoqat",
+        "Iste’dod"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "20",
+      "question": "Pedagogik xodisa sifatida tarbiyaning mohiyati nimadan iborat?",
+      "options": [
+        "Shaxsni ijtimoiy tajribani egallash bo‘yicha faoliyatini tashkil etishdan iborat va maqsadga qaratilgan ongli ravishda amalga oshiriladigan pedagogik jarayon",
+        "Maktab, oila. Jamoatchilikning hamkorlikda o‘quvchilarni tarbiyalashi",
+        "O‘qtuvchi – murabbiylarning ta’lim – tarbiyaviy ishlarni amalga oshirishi",
+        "O‘quvchilarga milliy istiqlol g‘oyalarini, vatanga muhabbatni singdirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "21",
+      "question": "Ta’lim deb nimaga aytiladi?",
+      "options": [
+        "Bu o‘quvchilarni bilim, ko‘nikma malakalarni egallashi, ijodiy qobiliyatlarini o‘stirish",
+        "Ta’lim bu – o‘quvchi – talabalarni bilim, ko‘nikma, malakalar bilan qurollantirish",
+        "Bu o‘quvchilarga ma’lumot berish maqsadida o‘qtuvchi va o‘quvchilarning o‘zaro xamkorligidir",
+        "Ta’lim bu – o‘qituvchining o‘quvchi talabalarga ta’lim – tarbiya berish jarayonidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "22",
+      "question": "‘Jadid’ so‘zining ma’nosi qanday ma’noni bildiradi?",
+      "options": [
+        "‘Jadid’ so‘zi arabcha so‘z bo‘lib, ’yangi’ degan ma’noni bildiradi",
+        "‘Jadid’ so‘zi lotincha so‘z bo‘lib, ’yuksalish’ degan ma’noni bildiradi",
+        "‘Jadid’ so‘zi grekcha so‘z bo‘lib, ’yangilik’ degan ma’noni bildiradi",
+        "‘Jadid’ so‘zi arabcha so‘z bo‘lib, ’o‘zgarish’ degan ma’noni bildiradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "23",
+      "question": "Kuzatish metodi qanday qo‘llaniladi?",
+      "options": [
+        "Oddiy tabiiy sharoitda qo‘llaniladi",
+        "Maxsus xonada qo‘llaniladi",
+        "Laboratoriya xonasida qo‘llaniladi",
+        "Inson faoliyati jarayonida qo‘llaniladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "24",
+      "question": "Yosh davrlari psixologiyasi nimalarni o‘rganadi?",
+      "options": [
+        "Har bir yosh davrlari bosqichlarini o‘rganadi",
+        "O‘smirlir davrlari bosqichlarini o‘rganadi",
+        "O‘spirinlik davrlari bosqichlarini o‘rganadi",
+        "Qarilik davrlari bosqichlarini o‘rganadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "25",
+      "question": "Psixologiyada tadqiqot tajribalar avvalo kimlarda o‘tkaziladi?",
+      "options": [
+        "Hayvonlarda ya’ni it, sichqon, parrandalarda o‘tkaziladi",
+        "Itlarda o‘tkaziladi",
+        "Parrandalarda o‘tkaziladi",
+        "Sichqon, parrandalarda o‘tkaziladi"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part2": [
+    {
+      "question_id": "26",
+      "question": "Ta’limning mazmuni qanday manbalarda aks ettiriladi?",
+      "options": [
+        "Ta’limning mazmuni: o‘quv rejalarida, dasturlarda va darsliklarda aks ettiriladi",
+        "Ta’limning mazmuni o‘quv materiallarida aks ettiriladi",
+        "Ta’limning mazmuni darsliklarda aks ettiriladi",
+        "Ta’limning mazmunida"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "27",
+      "question": "Hayvonlar psixologiyasini psixologiyaning fan sifatida rivojlangan qaysi tarmog’i o‘rganadi?",
+      "options": [
+        "Hayvonlar psixologiyasi",
+        "Ijtimoiy psixologiya",
+        "Pedagogik psixologiya",
+        "Yosh davrlari psixologiyasi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "28",
+      "question": "O‘quv fan dasturi deganda nimani tushunasiz?",
+      "options": [
+        "Ta’lim mazmuni uning talabalar tomonidan o‘zlashtirilishining eng maqbul usullari, axborot manbalari ko‘rsatilgan me’yoriy hujjat",
+        "Bakalavr yoki magistr o‘zlashtirishi lozim bo‘lgan mavzular ro‘yxati",
+        "Faqat nazariy bilimlar mavzulari ro‘yxati",
+        "Faqat amaliy bilimlar, laboratoriya ishlari mavzulari ro‘yxati"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "29",
+      "question": "Anketa metodi orqali ma’lumotlar to‘liq olinadimi?",
+      "options": [
+        "Qisman olinadi",
+        "To‘liq olinadi",
+        "Umuman to‘liq olinadi",
+        "To‘liq olinmaydi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "30",
+      "question": "Qaysi yosh davrlarida bolada mantiqiy xotira kuchli bo‘ladi?",
+      "options": [
+        "Bog’cha yoshi davrlarida",
+        "Boshlang’ich sinf davrlarida",
+        "O‘rta sinf davrlarida",
+        "Yuqori sinf davrlarida"
+      ],
+      "correct_option": 3
+    },
+    {
+      "question_id": "31",
+      "question": "Pedagogika fanining asosiy o‘rganish obektlarini aniqlang?",
+      "options": [
+        "Odamni anatomik – fiziologik jihatdan o‘sishida, psixikasida, bilish qobiliyati, xulqi, ijtimoiy – siyosiy qarashlarida ro‘y beradigan miqdor va sifat o‘zgarishlar jarayoni",
+        "Bolalarning jismoniy va ruhiy jihatdan o‘sishi, shakllanishi",
+        "Kishining aqliy, axloqiy – ma’naviy jihatdan kamol topishi",
+        "Rivojlanish bu – inson shaxsining tarkib topish jarayonidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "32",
+      "question": "Pedagogika fanining asosiy tarmoqlarini aniqlang?",
+      "options": [
+        "Umumiy pedagogika, maktabgacha tarbiya pedagogikasi, o‘rta maktab pedagogikasi, maxsus pedagogika",
+        "Umumiy pedagogika, oila pedagogikasi, filosofiya, metodika. Xarbiy pedagogika",
+        "Oliy maktab pedagogikasi, maxsus pedagogika, pediatriya, maktabgacha tarbiya pedagogikasi",
+        "Umumiy pedagogika, didaktika, psixologiya, logopediya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "33",
+      "question": "Pedagogik ilmiy – tadqiqot metodlari qaysilar?",
+      "options": [
+        "Kuzatish. Suxbat, anketa, maktab xujjatlarini o‘rganish",
+        "Kuzatish, ishontirish, mashq. Suhbat",
+        "Kuzatish, hikoya, suhbat, leksiya, anketa",
+        "Kuzatish, anketa, laboratoriya, ekskursiya, illyustratsiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "34",
+      "question": "Odamning u yoki bu ehtiyojlarini qondiradigan faol xatti-harakatlariga nima deyiladi?",
+      "options": [
+        "Faoliyat deyiladi",
+        "Odamning tashqi olam bilan o‘zaro ta’siri deb aytiladi",
+        "Har qanday impulsiv xatti-harakat faoliyat deb ataladi",
+        "Har qanday harakat faoliyatdir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "35",
+      "question": "Shaxsning irsiyat, muhit, tarbiya ta’sirida shakllanishiga nima deyiladi?",
+      "options": [
+        "Shaxs rivojlanishi va tarkib topishning asosiy omillari deyiladi",
+        "Irsiyat, tabiiy muhit, kattalar namunasi deyiladi",
+        "Muhit, tarbiyalovchi jamoa, adabiyot, san’at ta’siri deyiladi",
+        "Oila, maktab, moddiy turmush sharoiti deyiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "36",
+      "question": "Shaxslararo munosabatlarni psixologiyaning fan sifatida rivojlangan qaysi tarmog’i o‘rganadi?",
+      "options": [
+        "Ijtimoiy psixologiya",
+        "Pedagogik psixologiya",
+        "Yosh davrlari psixologiyasi",
+        "Pedagogik psixologiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "37",
+      "question": "Pedagogika fanining metodologik asoslari deganda nimani tushunasiz?",
+      "options": [
+        "Oliy pedagogik xodisalarni tadqiq qilishda qo‘llanma bo‘ladigan ilmiy – falsafiy g‘oyalar, ilmiy meros",
+        "Ilmiy meros, ta’lim – tarbiya metodlari, pedagogik hodisalar, o‘qituvchilarning tajribalari",
+        "Ta’lim – tarbiyada qo‘llaniladigan metodlar, amal qiladigan fikr – g‘oyalar, qo‘llanmalar",
+        "Ta’lim – tarbiyaning umumiy qoidalari, tarbiya haqidagi g‘oyalar, prinsiplari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "38",
+      "question": "Diqqat tushinchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Ongning biron bir predmet, hodisa yoki faoliyatga qaratilishi hamda to‘planishidir",
+        "Organizmning ma‘lum analizatorlar ta‘sirida turishi",
+        "Narsa va hodisani tanlab idrok qilish",
+        "Biron narsaga kuchli diqqat bilan qarashga aytiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "39",
+      "question": "Ta’lim tushinchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Ta’lim - ma‘lum maqsadga yo‘naltirilgan, rejali ravishda amalga oshiriladigan pedagog-talaba-pedagog muloqotidir",
+        "Ta’lim - o‘quv faoliyati natijasi",
+        "Ta’lim - pedagog va talabaning o‘zaro muloqoti",
+        "Rejali ravishda amalga oshiriladigan pedagog-talaba-pedagog muloqotidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "40",
+      "question": "Abu Ali Ibn Sino bola tarbiyasini qaysi yoshdan boshlash lozim deb aytgan?",
+      "options": [
+        "Go‘daklik davridan",
+        "8 yoshdan",
+        "10 yoshdan",
+        "Balog‘at yoshidan"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "41",
+      "question": "O‘qitish jarayonida nazoratning rivojlantiruvchi funksiyasi qaysilar?",
+      "options": [
+        "O‘z-o‘zini nazorat qilish va baholash",
+        "Talabalarda barqaror diqqatni vujudga keltirish",
+        "Xotirani mustahkamlash",
+        "Diqqatni vujudga keltirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "42",
+      "question": "Sezgi tushinchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Tashqi ta‘sirlarni tegishli retseptorlar orqali markaziy nerv sistemasiga borishi va undan qaytadigan javob reaksiyasiga aytiladi",
+        "Bosh miyaning tashqi olamdagi narsa va hodisalarning ayrim xususiyatlariga reaksiyasi",
+        "Har qanday tashqi olamni xis etish sezgilaridir",
+        "Eng sodda psixik jarayonlar sezgilardir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "43",
+      "question": "Ekologiya so‘zi qanday ma’noni anglatadi?",
+      "options": [
+        "Uy, uyning tomi degan ma’noni anglatadi",
+        "Tabiat degan ma’noni anglatadi",
+        "Biologik hayot degan ma’noni anglatadi",
+        "Yashil o‘rmon degan ma’noni anglatadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "44",
+      "question": "Idrok deb nimaga aytiladi?",
+      "options": [
+        "Sezgi a‘zolarimizga ta‘sir etayotgan narsa va hodisalarning miyamizda yaxlit holicha aks etishiga aytiladi",
+        "Tashqi olamdagi narsalarni aks ettirishda sezgilar yig‘indisi",
+        "Biror sezgi a‘zoimizga ta‘sir etgan narsa hodisalarning miyada aks ettirishga idrok deb ataladi",
+        "Predmetlarning xususiyat va sifatlarini birgalikda aks ettirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "45",
+      "question": "O‘qituvchi va o‘quvchi o‘rtasidagi ikki tomonlama jarayonga nima deyiladi?",
+      "options": [
+        "Tarbiya jarayonining o‘ziga xos xususiyatlari deyiladi",
+        "Tarbiyaning o‘ziga xos xususiyati uning o‘quvchilarni tarbiyalashga qaratilganligi deyiladi",
+        "Tarbiyaning o‘ziga xos xususiyati uning ikki tomonlama jarayon ekanligi va bolaga xulq qoidalarini o‘rgatish deyiladi",
+        "Tarbiyaning o‘ziga xos xususiyati uning darsdan tashqari vaqtida amalga oshirilishi deyiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "46",
+      "question": "Tarbiya jarayoni qanday bosqichlardan iborat?",
+      "options": [
+        "O‘quvchilarni umumiy talab va me’yorlar bilan tanishtirish, qarash va e’tiqodlarni shakllantirish, amaliy ko‘nikma va malakalarni tarkib toptirish",
+        "Tarbiyaviy ishlarni rejalashtirish va amalga oshirish",
+        "Tarbiyaviy vazifalarni idrok qilish, tushunish, umumlashtirish, amalda qo‘llash bosqichlari",
+        "Tarbiyachi avval tarbiyaviy vazifa ni belgilaydi, uning mazmunini, amalga oshirish shakl, metodlarini aniqlaydi, natijalarni tahlil qiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "47",
+      "question": "O‘quvchining tarbiyalanganlik darajasini nimalarga qarab bilish mumkin?",
+      "options": [
+        "O‘quvchida tarbiyaga tegishli bilimlar mavjudligida, bu bilimlarni o‘z faoliyati va hatti – harakatlarida ko‘rsata olishida",
+        "O‘qish, mehnatga munosabatga qarab",
+        "Amaliy bilim, ko‘nikmalariga qarab",
+        "O‘quvchining xulqi, xatti – xarakatiga qarab"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "48",
+      "question": "‘Texnologiya’ tushunchasining to‘gri ta’rifini toping?",
+      "options": [
+        "Texnologiya - tayyor maxsulot olish uchun ishlab chiqarish jarayonlarida qo‘llaniladigan usul va metodlar majmui",
+        "Texnologiya - buyumni tayyorlash metodlari majmui",
+        "Texnologiya - tayyor maxsulot olish usuli",
+        "Texnologiya - ishlab chiqarish jarayoni"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "49",
+      "question": "Tarbiya prinsiplari deb nimaga aytiladi?",
+      "options": [
+        "Tarbiyachi tarbiyaviy ishda amal qilishi zarur bo‘lgan asosiy qoidalarga aytiladi",
+        "Tarbiyaviy ishni tayyorlash va o‘tkazish tartibiga aytiladi",
+        "Ta’lim – tarbiya sohasida davlat siyosatining asosiy prinsiplariga aytiladi",
+        "Tarbiyachining o‘z shaxsiy tajribasidan kelib chiqib tarbiyaviy ishga yondashuviga aytiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "50",
+      "question": "Milliy tarbiya deganda nimani tushunasiz?",
+      "options": [
+        "Har bir xalqning o‘z milliy madaniyati, tili, tarixi, urf – odatlari, milliy me’rosi",
+        "Har bir mamlakatning o‘z ona tilida ta’lim tarbiya ishlarini olib borish",
+        "O‘quvchilarni tarbiyalashda har bir xalqning tarbiya to‘g‘risidagi fikrlaridan foydalanish",
+        "To‘g‘ri javob yo‘q"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part3": [
+    {
+      "question_id": "51",
+      "question": "Ta’lim-tarbiya jarayonida biz o‘quvchi talabalar ongi, qalbiga qaysi g‘oyalarni singdiramiz?",
+      "options": [
+        "Hammasi to‘g‘ri",
+        "Mustaqillik, ozodlik",
+        "Tinchlik, adolat birdamlik, ma’rifatparvarlik",
+        "Milliy istiqlol g‘oyalari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "52",
+      "question": "Xotira deb nimaga aytiladi?",
+      "options": [
+        "O‘tmish tajribamizni esda olib qolish, esda saqlash va unutish jarayoniga aytiladi",
+        "O‘tmish tajribamizda nimaiki hodisa yuz bergan bo‘lsa, shularni esda olib qolish",
+        "O‘qigan narsalarni esda olib qolish",
+        "Ilgarigi amaliy faoliyatda shakllangan tajribalardan foydalanish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "53",
+      "question": "‘Fozil odamlar shaxri’ asari qaysi allomaga tegishli?",
+      "options": [
+        "Farobiy",
+        "Ibn Sino",
+        "Al Xorazmiy",
+        "Beruniy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "54",
+      "question": "Tafakkur deb nimaga aytiladi?",
+      "options": [
+        "Voqelikni tahlil qilib va sintezlashda uni bevosita, umumlashtirib aks ettirish jarayonidir",
+        "Tashqi olamning alohidagi xususiyatlarining miyamizda aks etishi",
+        "Voqelikni nutq orqali bevosita aks ettirish jarayonidir",
+        "Tafakkur bu – aql"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "55",
+      "question": "Dunyoqarash deb nimaga aytiladi?",
+      "options": [
+        "Kishilarning tevarak-atrofdagi voqelikka munosabatini belgilovchi bilimlari, qarashlari, e’tiqodlari va ideallar tizimiga aytiladi",
+        "Kishilarning tabiat va jamiyat haqidagi bilimlariga aytiladi",
+        "Kishilarning dunyoning tuzilishi haqidagi bilim, ko‘nikmalariga aytiladi",
+        "Insonning tevarak-atrofdagi narsa-xodisalar haqidagi tasavvurlariga aytiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "56",
+      "question": "Huquqiy tarbiyaning vazifalari nimalardan iborat?",
+      "options": [
+        "O‘quvchilarni O‘zbekiston Konstitutsiyasi, qonunlari bilan tanishtirish ularga amal qilishga o‘rgatishdan iborat",
+        "O‘quvchi talabalarni jamiyat taraqqiyoti bilan tanishtirish",
+        "Bolalarni huquqni himoya qiluvchi organlar faoliyati bilan tanishishi",
+        "O‘quvchi talabalarini o‘z huquqlari, burchlari bilan tanishtiruvdan iborat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "57",
+      "question": "O‘qituvchining akademik qobiliyati nima?",
+      "options": [
+        "O‘z fanini chuqur va keng hajmda bilish va darsda predmetlararo bog‘lanishlarni amalga oshirish",
+        "O‘quvchilarning dars jarayonini o‘zlashtirishini ta’minlash",
+        "Muayyan soatga mo‘ljallangan darsni o‘z vaqtida to‘liq va aniq o‘ta olish",
+        "O‘z pedagogik harakatlari natijasini oldindan ko‘ra olish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "58",
+      "question": "Nutq deb nimaga aytiladi?",
+      "options": [
+        "Kishilarning til vositasidagi o‘zaro munosabatda bo‘lish jarayoni",
+        "Nimanidir aytish ehtiyoji",
+        "Kishilar o‘rtasidagi munosabatda vujudga keladigan jarayon",
+        "Biror kishi bilan aloqa o‘rnatish vositasi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "59",
+      "question": "O‘qituvchining kommunikativ qobiliyati nima?",
+      "options": [
+        "O‘quvchilar bilan til topisha olish, o‘z suhbati va so‘zlari bilan ularni qiziqtira olish va jalb eta olish",
+        "His-tuyg‘u orqali o‘quvchilarga ta’sir o‘tkaza olish",
+        "Noan’anaviy darsni tashkil qila olish",
+        "Har bir mashg‘ulot uchun o‘quv-tarbiyaviy ishlarni samarali rejalashtirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "60",
+      "question": "Hayol deb nimaga aytiladi?",
+      "options": [
+        "Ilgari idrok qilmagan predmet va hodisalarni yaratishdan iborat psixik jarayon",
+        "Orzu, istak",
+        "Ijtimoiy ahamiyatga ega bo‘lgan muhim bir yangilik yaratish faoliyatidir",
+        "Narsa va hodisalar obrazlarining miyada gavdalanishi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "61",
+      "question": "Hissiyot tushunchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Odamlarning o‘zi bilayotgan va bajarayotgan narsaga o‘z munosabatini boshdan kechirishi",
+        "Kishining o‘z ehtiyojlariga bo‘lgan munosabatini boshdan kechirishi",
+        "Bizning sezishimiz, his qilishimiz bu his – tuyg‘udir",
+        "Kishilarning tevarak-atrofga bo‘lgan munosabatlari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "62",
+      "question": "Abdulla Avloniy qachon va qayerda o‘zining yangi usuldagi o‘quv muassasasini ochdi?",
+      "options": [
+        "1907-yilda Toshkentning ‘Mirobod’ ma’allasida",
+        "1903-yilda Fargonada ‘Tegirmonchi’ ma’allasida",
+        "1908-yilda Namanganda ‘Oktepa’ ma’allasida",
+        "1900-yilda Samarqandda ‘Registon’ ma’allasida"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "63",
+      "question": "Iroda tushunchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Kishining o‘z oldiga qo‘ygan maqsadga erishish uchun to‘siqlarni harakat yordamida yengish vaqtida vujudga keladigan psixik jarayon",
+        "Impulsiv va ixtiyoriy harakatlar irodaviy harakatlar deyiladi",
+        "Odamning ta’surot ta’sirida harakatlanishi",
+        "Faqat holis niyatli tavakkalchilik bilan erishilgan harakatlar irodaga kiradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "64",
+      "question": "O‘quvchilarda hosil bo‘ladigan motivlarning kuchli yoki kuchsiz bo‘lishi nimaga bog‘liq?",
+      "options": [
+        "O‘qituvchining pedagogik mahoratiga bog‘liq",
+        "Darsning mavzusiga bog‘liq",
+        "O‘quvchining bilimiga bog‘liq",
+        "O‘qituvchining bilim darajasiga bog‘liq"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "65",
+      "question": "Temperamentning qanday tiplari mavjud?",
+      "options": [
+        "Xolerik, sangvinik, melanxolik, flegmatik",
+        "Xolerik, sangvinik",
+        "Sangvinik, melanxolik",
+        "Sangvinik, melanxolik, flegmatik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "66",
+      "question": "Xarakter tushunchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Kishining hulq-atvorida namoyon bo‘ladigan tug‘ma xususiyat",
+        "Shaxsning hulq-atvorida va hatti-harakatida namoyon bo‘ladigan oliy asab faoliyatining tug‘ma xususiyatidir",
+        "Kishilarning jamiyatda qabul qilingan ahloq me’yorlariga muvofiq harakat qilishi",
+        "Kishilarning jamiyatda qabul qilingan ahloq me’yorlariga muvofiq harakat qilishi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "67",
+      "question": "Hadis ilmining rivojiga katta hissa qo‘shgan muhaddislarni aniqlang?",
+      "options": [
+        "Muborak al-Marvaziy, Imom al-Buxoriy, Imom at-Termiziy",
+        "Imom al-Buxoriy, A.Navoiy, Ahmad Donish",
+        "Imom Ismoil al-Buxoriy, Muborak al-Marvaziy, Musa al-Xorazmiy",
+        "Imom Ismoil al-Buxoriy, Imom at-Termiziy, Qayqovus"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "68",
+      "question": "Qobiliyat tushunchasiga berilgan to‘gri javobni toping?",
+      "options": [
+        "Bilimlarni, ko‘nikma va malakalarni nisbatan osonlik bilan egallab oladigan va biror faoliyat bilan muvaffaqiyatli shug‘ullanish mumkin bo‘lgan individual psixologik xususiyatdir",
+        "Kishining o‘zi haqida qandaydir fikr yuritishga yordam beruvchi xatti-harakati va faoliyatidir",
+        "Shaxsning barcha shaxsiy – psixologik xususiyatlari kabi qobiliyatlar insonga tabiat tomonidan berilgan tug‘ma xususiyatdir",
+        "Qobiliyat, tug‘ma xususiyat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "69",
+      "question": "Ya.A Kamenskiy didaktikani qanday ta’riflagan?",
+      "options": [
+        "‘Hammani hamma narsaga universal o‘qitish san’ati’",
+        "Zamonaviy o‘qitish tizimi",
+        "‘To‘liq tafakkur akti’",
+        "‘Tarbiya predmeti’"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "70",
+      "question": "Bilish jarayonlarini ko‘rsatib bering?",
+      "options": [
+        "Sezgi, diqqat, xotira, idrok, tafakkur, nutq, xayol",
+        "Diqqat, faollik, tafakkur",
+        "Diqqat, xotira, sezgi, idrok, tafakkur",
+        "Hissiyot, xayol, idrok, sezgi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "71",
+      "question": "Turkistonda jadidchilik harakatining yirik vakillari kimlar?",
+      "options": [
+        "M.Behbudiy, Munavvar Qori Abdurashidov, Ibrat, A.Avloniy, Cho‘lpon",
+        "M.Behbudiy, Munavvar Qori Abdurashidov, Fitrat, G‘.G‘ulom",
+        "S.Ayiniy, M.Behbudiy, A.Avloniy, Mirzo Rahimov",
+        "Behbudiy, Fitrat, S.Ayniy, Oybek"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "72",
+      "question": "XX asr boshlarida Pedagogika qaysi fanlar tizimidan fan sifatida ajralib chiqqan?",
+      "options": [
+        "Falsafa",
+        "Matematika",
+        "Tarix",
+        "Fizika"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "73",
+      "question": "Ta‘lim va tarbiya jarayonini yaxlitlikda qaysi fan o‘rganadi?",
+      "options": [
+        "Pedagogika",
+        "Mantiq",
+        "Falsafa",
+        "Tarbiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "74",
+      "question": "Pedagogikaning maxsus tarmog‘i tiflopedagogika kimlar bilan shug‘ullanadi?",
+      "options": [
+        "Ko‘zi ojiz tarbiyalanuvchilar ta’lim-tarbiyasi bilan shug‘ullanuvi",
+        "Kar va gung tarbiyalanuvchilar ta’lim-tarbiyasi bilan shug‘ullanuvi",
+        "Aqli ojizlar ta’lim-tarbiyasi bilan shug‘ullanuvi",
+        "Qonuniyatlarini o‘rganadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "75",
+      "question": "Pedagogika fanining obyekti qaysi qatorda keltirilgan?",
+      "options": [
+        "Yaxlit pedagogik jarayon",
+        "Yosh avlodni har tomonlama xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+        "O‘quvchilarni nazariy bilim, amaliy ko‘nikma va malakalar bilan qurollantirish",
+        "Ta‘lim-tarbiya jarayoni, mazmuni, qonuniyatlari, tamoyillari, metod va vositalari"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part4": [
+    {
+      "question_id": "76",
+      "question": "Pedagogika fanining predmeti nimadan iborat?",
+      "options": [
+        "Ta‘lim-tarbiya jarayoni, mazmuni, qonuniyatlari, tamoyillari, shakl, metod va vositalari",
+        "Muayyan, aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o‘stirish",
+        "Yaxlit pedagogik jarayon",
+        "O‘quvchilarni nazariy bilim, amaliy ko‘nikma va malakalar bilan qurollantirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "77",
+      "question": "Shaxsning rivojlanishiga ta’sir etuvchi omillar qaysilar?",
+      "options": [
+        "Irsiyat, tashqi muhit, ta’lim-tarbiya",
+        "Irsiyat, tashqi muhit",
+        "Tashqi muhit, ta’lim-tarbiya",
+        "Irsiyat, ta’lim-tarbiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "78",
+      "question": "Pedagogik muhit deganda nimani tushunasiz?",
+      "options": [
+        "Pedagogik muhit – pedagogik maqsadlarga muvofiq ravishda maxsus tuzilgan shaxslararo munosabatlar tizimidir",
+        "Pedagogik muhit – pedagog va talaba o‘rtasidagi munosabatlar yig‘indisi",
+        "Pedagogik muhit – dars jarayonidir",
+        "Pedagogik muhit – shaxslararo munosabatlar tizimidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "79",
+      "question": "Maktabgacha yoshdagi bolaning asosiy faoliyati asosan qaysi faoliyat turidan iborat?",
+      "options": [
+        "O‘yin",
+        "Predmetli harakat",
+        "Qurish-yasash",
+        "Hissiy munosabat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "80",
+      "question": "Pedagogikaning asosiy kategoriyalaridan biri bo‘lgan tarbiyaga qaysi qatorda to‘g‘ri ta’rif berilgan?",
+      "options": [
+        "O‘quvchilarni nazariy bilim, amaliy ko‘nikma va malakalar bilan qurollantirish, kompetentlikni tarkib toptirishga yo‘naltirilgan jarayon",
+        "Yaxlit pedagogik jarayon",
+        "Aniq maqsad hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama o‘stirish, uning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayoni",
+        "Ta‘lim-tarbiya jarayoni, mazmuni, qonuniyatlari, tamoyillari, shakl, metod va vositalari"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question_id": "81",
+      "question": "Muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakliga nima deyiladi?",
+      "options": [
+        "Malaka",
+        "Bilim",
+        "Ko‘nikma",
+        "Ma‘lumot"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "82",
+      "question": "Bilim deb nimaga aytiladi?",
+      "options": [
+        "O‘quvchilar ta’lim jarayonida o‘zlashtirishi lozim bo‘lgan o‘quv materiallariga aytiladi",
+        "O‘quvchilarning ta’lim jarayonida o‘zlashtiradigan va amalda qo‘llaydigan tabiat va jamiyat xaqidagi ma’lumotlar va faktlar",
+        "O‘quvchilar tushungan esda qoldirilgan, amalda qo‘llay oladigan ilmiy faktlar tushuncha qoidalar jamiyat aytiladi",
+        "Kishilarning tabiat va jamiyat xaqidagi tushunchalariga aytiladi"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "83",
+      "question": "Ko‘nikma deb nimaga aytiladi?",
+      "options": [
+        "O‘quvchilarning o‘zlashtirgan bilimlarini amalda qo‘llash usullarini egallashlariga aytiladi",
+        "O‘quvchilarni ta’lim ishining muayyan tartiblariga odatlanishlariga aytiladi",
+        "O‘quvchilarning o‘quv sharoitiga ko‘nikib ketishlariga aytiladi",
+        "O‘quvchilarni ta’lim jarayonida o‘zlashtirgan bilimlariga aytiladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "84",
+      "question": "Pedagogik qobiliyatga ta’rif berilgan to‘gri javobni toping?",
+      "options": [
+        "Didaktik, akademik nutq, tashkilotchilik, kommunikativ, pedagogik xayol, diqqatni taqsimlay olish, avtoritar qobiliyat",
+        "Didaktik, akademik, pedagogik xayol, diqqatni taqsimlay olish",
+        "Nutq madaniyati, diqqatni taqsimlay olish, avtoritar qobiliyat",
+        "Tashkilotchilik, kommunikativ qobiliyat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "85",
+      "question": "Ta’lim jarayoning tarkibiy qismlariga nimalar kiradi?",
+      "options": [
+        "O‘quv materialini idrok qilish, uni tushunish, umumlashtirish, amalda qo’llash",
+        "Ta’lim maqsadini belgilash, bilimga ehtiyoj motivlar hosil qilish talim mazmunini metodlarini belgilash o‘quvchilarning o‘quv bilish faoliyatini yo‘lga qo‘yish",
+        "Uy vazifalarini so‘rash, baholash, yangi materialni bayon qilish, mustahkamlash",
+        "Analiz, sintez, taqqoslash, umumlashtirish, xulosa"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "86",
+      "question": "O‘qituvchining asosiy vazifalariga nimalar kiradi?",
+      "options": [
+        "Ta’lim, tarbiya, rivojlanish, shakllantirish jarayonini boshqarish",
+        "O‘qitish va o‘rgatish",
+        "O‘qitish va tarbiyalash",
+        "Rivojlanish, shakllantirish jarayonini boshqarishdir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "87",
+      "question": "Ta’limning tashkiliy shakllarini aniqlang?",
+      "options": [
+        "Dars, umumiy ta’lim, ekskursiya, kasbiy ta’lim, oliy ta’lim",
+        "Dars, ekskursiya, uy ishi, fakultativ mashg‘ulot, maslahat, praktikum, olimpiada",
+        "O‘quvchilar bilan yakka ishlash, dars, tabaqalashtirilgan ta’lim, uy ishi",
+        "Suhbat, munozaralar, kitob ustida ishlash, adabiy kecha, konferensiya"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "88",
+      "question": "Ta‘lim-tarbiya natijasida o‘zlashtirilgan va tizimlashtirilgan bilim, hosil qilingan ko‘nikma va malakalar hamda tarkib topgan dunyoqarash majmuiga nima deyiladi?",
+      "options": [
+        "Ma’lumot",
+        "Ko’nikma",
+        "Bilim",
+        "Malaka"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question_id": "89",
+      "question": "Pedagogikaning boshqa fanlar bilan aloqadorligi mavjud bo‘lmagan fan qaysi qatorda keltirilgan?",
+      "options": [
+        "Mantiq",
+        "Etika",
+        "Estetika",
+        "Ta‘lim menejmenti"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "90",
+      "question": "Psixikaning namoyon bo‘lish shakllariga nimalar kiradi?",
+      "options": [
+        "Psixik jarayonlar, psixik holatlar va shaxsning individual xususiyatlari",
+        "Sezgi, idrok, xotira, tafakkur, hayol",
+        "Maqsadga intiluvchanlik, xarakter",
+        "Temperament, qobiliyat, qiziquvchanlik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "91",
+      "question": "Bolalar psixologiyasi fanida eng ko‘p qaysi metod qo‘llaniladi?",
+      "options": [
+        "Bolalar ijodini o‘rganish test metodi",
+        "Bolalar ijodini o‘rganish",
+        "Pedagogik kuzatish",
+        "Pedagogik tahlil qilish"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question_id": "92",
+      "question": "Test metodi orqali nimalar aniqlanadi?",
+      "options": [
+        "Qisqa vaqt ichida bajarilishi lozim bo‘lgan vazifa bo‘lib uning bajarilishi ba’zi bir vazifalar mukammalligining ko‘rsatgichi aniqlanadi",
+        "Shaxslararo birgalikdagi faoliyat jarayonida guruh, jamoadagi o‘zaro munosabatlarni aniqlash metodidir",
+        "Psixologik dalilni aniq namoyon qilishga yordam beradigan sharoitni yuzaga keltirish maqsadida tadqiqotchining tekshiriluvchi faoliyatiga aktiv aralashishini taqozo etadi",
+        "Psixik hodisalarning tashqi alomatlarini tasvirlash bilan cheklanib qolmay, balki bu hodisalarning psixologik tabiatini ilmiy ravishda tushuntirib beradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "93",
+      "question": "Kuzatish metodi orqali nimalar aniqlanadi?",
+      "options": [
+        "Psixologik dalilni aniq namoyon qilishga yordam beradigan sharoitni yuzaga keltirish maqsadida tadqiqotchining tekshiriluvchi faoliyati aniqlanadi",
+        "Tashqi alomatlarini tasvirlash bilan cheklanib qolmay, balki bu hodisalarning psixologik tabiatini ilmiy ravishda tushuntirib beradi",
+        "Qisqa vaqt ichida bajarilishi lozim bo‘lgan vazifa bo‘lib uning bajarilishi ba’zi bir psixik vazifalar mukammalligining ko‘rsatgichi bo‘lib xizmat qiladi",
+        "Shaxslararo birgalikdagi faoliyat jarayonida guruh va jamoadagi o‘zaro munosabatlarni aniqlash metodidir"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "94",
+      "question": "‘Agar pedagog odamni har jihatdan tarbiyalashni istar ekan, u eng avvalo o‘sha tarbiyalanadigan odamni har tomonlama bilmog‘i kerak’ - bu fikr kimga mansub?",
+      "options": [
+        "K. D. Ushinskiy",
+        "S. Makarenko",
+        "Ya. A. Komenskiy",
+        "Alisher Navoiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "95",
+      "question": "O‘quvchilarning ijodiy faoliyatini tashkil etishda qanday metodlardan foydalanish maqsadga muofiq?",
+      "options": [
+        "Ilmiy-tadqiqot metodi",
+        "O‘qitish metodlari",
+        "Shaxsiy namuna ko‘rsatish metodi",
+        "Ma’ruza, suhbat, ko‘rgazmalilik metodlari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "96",
+      "question": "‘Shaxsning ijtimoiylashuv jarayoni’ deb nimaga aytiladi?",
+      "options": [
+        "Inson tomonidan ijtimoiy tajribani egallash va hayot - faoliyat jarayonida uni faol tarzida o‘zlashtirish jarayoni",
+        "Tashqi muhitni insonga ta’sir ko‘rsatishi",
+        "Tashqi muhit va boshqa kishilar tomonidan insonga maqsadli ravishda ta’sir ko‘rsatish",
+        "Bunday termin mavjud emas"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "97",
+      "question": "‘Inson kamolotida uch narsa – irsiyat, muhit, tarbiya muhim rol o‘ynaydi’ degan fikrlar muallifi kim?",
+      "options": [
+        "Ibn Sino",
+        "Yusuf Xos Hojib",
+        "Forobiy",
+        "Beruniy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "98",
+      "question": "Faoliyat mahsulini o‘rganish metodi orqali nimalar aniqlanadi?",
+      "options": [
+        "Inson faoliyatining o‘sish ko‘rsatkichi aniqlanadi",
+        "Psixologik dalilni aniq namoyon qilishga yordam beradigan sharoit aniqlanadi",
+        "Psixik hodisalarning psixologik tabiati ilmiy ravishda tushuntirib beriladi",
+        "Shaxslararo birgalikdagi faoliyat jarayonida guruh va jamoadagi o‘zaro munosabatlarni aniqlanadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "99",
+      "question": "Anketa metodi orqali nimalar aniqlanadi?",
+      "options": [
+        "Yozma ravishda berilgan savollarga javob olish va uning natijasini tahlil qilinadi va aniqlanadi",
+        "Psixologik dalilni aniq namoyon qilishga yordam beradigan sharoit aniqlanadi",
+        "Qisqa vaqt ichida bajarilishi lozim bo‘lgan vazifa belgilanadi",
+        "Shaxslararo birgalikdagi faoliyat jarayonida guruh va jamoadagi o‘zaro munosabatlarni aniqlanadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "100",
+      "question": "Faoliyat turlari nimalardan iborat?",
+      "options": [
+        "O‘yin, o‘qish, mehnat",
+        "Tafakkur, mehnat",
+        "Axborot qidiruvi, mehnat, muomala",
+        "Tafakkur, axborot qidiruvi, mehnat"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part5": [
+    {
+      "question_id": "101",
+      "question": "Ta’lim-tarbiyaga tadqiqiy ijodiy yondashuvning maqsadi nimadan iborat?",
+      "options": [
+        "Bu yondashuv ta’limning maqsadi, talabada biror muammoni yechish qobiliyatini o‘stirish, yangi bilimni mustaqil o‘zlashtirish, harakatning yangi usullarini topish, shaxsning tashabbus ko‘rsatishi",
+        "Talaba o‘z ilmiy ishlarini, natijalarini hayotga tatbiq etilishiga erishish",
+        "Talabalar ijodiy ishlarini, natijalarini rahbarlariga topshirishi",
+        "Mustaqil o‘zlashtirish, harakatning yangi usullarini topish, shaxsning tashabbus ko‘rsatishi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "102",
+      "question": "Faoliyat tushinchasi nimalarni o‘z ichiga oladi?",
+      "options": [
+        "Odamning u yoki bu ehtiyojlarini qondiradigan faol xatti-harakatni",
+        "Odam organizmining faol vositasini",
+        "Odamning tashqi olam bilan o‘zaro ta’sirini",
+        "Har qanday impulsiv xatti-harakat faoliyat deb ataladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "103",
+      "question": "An’anaviy ta’limning asosiy kamchiligini ko‘rsating?",
+      "options": [
+        "Talabaning aqliy, ijodiy, kommunikativ bilim olishini yetarlicha ta’minlanmaydi",
+        "Ta’lim faqat darslik va o‘quv qo‘llanmalarga asoslanadi",
+        "Zamonaviy ta’limning talablariga butunlay javob bermaydi",
+        "Ta’limda o‘quvchining maqsadlari inobatga olinmaydi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "104",
+      "question": "Shaxs tushunchasiga to‘g‘ri javobni toping?",
+      "options": [
+        "Ijtimoiy munosabatlarga kirishuvchi va ijtimoiy taraqqiyotda faol qatnashuvchi odam",
+        "O‘zining ongi, tili bilan hayvonlardan farq qiluvchi odam shaxsdir",
+        "Har qanday zot shaxs deb ataladi",
+        "Insonlik jinsiga mansub bo‘lgan faktiga shaxs deb ataladi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "105",
+      "question": "Diqqatning asosiy xususiyatlari nimalardan iborat?",
+      "options": [
+        "Diqqatning barqarorligi, ko‘lami, taqsimlanishi va kuchi",
+        "Diqqatning ko‘chishi",
+        "Diqqatning bo‘linishi va parishonligi",
+        "Diqqatning ko‘lamini"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "106",
+      "question": "Idrok xususiyatlari nimalardan iborat?",
+      "options": [
+        "Javoblarning barchasi to‘g‘ri",
+        "Predmetlik",
+        "Yaxlitlik",
+        "Barqarorlik va anglanilganlik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "107",
+      "question": "Bola to‘g‘ri yurishni, muloqotga kirishishni, predmetli faoliyatni egallash xususiyatlarni qaysi davrda egallaydi?",
+      "options": [
+        "Ilk bog’cha yoshi davrida",
+        "Chaqaloqlik davrida",
+        "Kichik maktab yoshida",
+        "Maktabgacha yoshda"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "108",
+      "question": "Nutq deb nimaga aytiladi?",
+      "options": [
+        "Kishilarning til vositasidagi o‘zaro munosabatda bo‘lish jarayoni",
+        "Biror kishi bilan aloqa o‘rnatish vositasi",
+        "Nimanidir aytish ehtiyoji",
+        "Kishilar o‘rtasidagi munosabatda vujudga keladigan jarayon"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "109",
+      "question": "O‘quv faoliyati – bu shunday faoliyatki,………..?",
+      "options": [
+        "Unda shaxsning psixik jarayonlari shakllanadi va rivojlanadi, uning asosida yangi faoliyatlar yuzaga keladi",
+        "U bevosita, kishilarni ijod qilishga, mehnat bilan shug‘ullanishga undaydi",
+        "U kelajakka yo‘naltirilgan rivojini belgilaydi",
+        "O‘rganish, egallash, yaratishdir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "110",
+      "question": "Temperament tushunchasiga berilgan to‘g‘ri javob qaysi?",
+      "options": [
+        "Shaxsning xulq-atvorida va hatti-harakatida namoyon bo‘ladigan oliy asab faoliyatining tug‘ma xususiyatidir",
+        "Kishining xulq-atvorida namoyon bo‘ladigan tug‘ma xususiyat",
+        "Odam asab tizimining holati uning boshqa odamlarga bo‘lgan munosabati",
+        "Odam tanasidagi «suvlarning» miqdoriga, ularning nisbatiga qarab odamlarni tiplariga ajratish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "111",
+      "question": "Sezgi a’zolari axborotni…...?",
+      "options": [
+        "Saralaydi, jamlaydi, miyaga etkazadi",
+        "Inson miyasida jamlaydi",
+        "Ruh va jonni rivojlantiradi",
+        "Insonni rivojlantiradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "112",
+      "question": "O‘qituvchining asosiy vazifasini ko‘rsating?",
+      "options": [
+        "Maqsadga yo‘naltirish",
+        "Boshqarish",
+        "Tashkillashtirish",
+        "Baholash"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "113",
+      "question": "Sezgi psixik hodisalarning qaysi guruhiga mansub?",
+      "options": [
+        "Psixik jarayonlarga",
+        "Psixik holatlarga",
+        "Psixik xususiyatlarga",
+        "Parapsixologik hodisalarga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "114",
+      "question": "O‘quv qo‘llanmasining darslikdan farq qiluvchi jihatini toping?",
+      "options": [
+        "Muayyan mavzularni darslikka nisbatan kengroq yoritadi",
+        "Ular to‘rtasida farq bo‘lmaydi",
+        "Darslikning dastlabki nusxasi",
+        "O‘quv qo‘llanma ma’ruzalar matnidan iborat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "115",
+      "question": "Psixologiya fanining asosiy tadqiqot metodlari qaysilar?",
+      "options": [
+        "Kuzatish, eksperiment, anketa, test, sotsiometriya, suhbat, laboratoriya",
+        "Kuzatish metodi, laboratoriya metodi",
+        "Ma’lumotlarni qayta ishlash, psixologik-pedagogik eksperiment",
+        "Psixologik – pedagogik eksperiment"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "116",
+      "question": "Individual ta’lim deganda nimani tushunasiz?",
+      "options": [
+        "Pedagog bir talaba individual yondashgan holda ta’limni tashkil etishi",
+        "Yaxshi o‘zlashtirgan talabalarni jamlab o‘tkaziladigan ta’lim",
+        "Guruhlarda o‘tkaziladigan ta’lim",
+        "Ta’limni tashkil etish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "117",
+      "question": "O‘quv faoliyatining elementlarini to‘g‘ri belgilang?",
+      "options": [
+        "O‘quv motivlari, o‘quv topshiriqlari, o‘quv harakatlari, o‘qituvchining nazorati, o‘qituvchining baholashi",
+        "Ma’lumot usullari, o‘quv motivlari, o‘qituvchining baholashi",
+        "Motivasiya, xotira, o‘quv topshiriqlari, o‘qituvchining nazorati",
+        "O‘quv motivlari, o‘qituvchining nazorati"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "118",
+      "question": "Ideal o‘qituvchidagi sifatlarni ko‘rsating?",
+      "options": [
+        "Har tomonlama namunali darajada darsni olib boruvchi o‘qituvchi",
+        "O‘qituvchining mahorati",
+        "Aniq ilmiy g‘oyalarga ega bo‘lgan o‘qituvchi",
+        "Sinfda yuqori darajada intizomni yuzaga keltirgan o‘qituvchi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "119",
+      "question": "Motiv deb nimaga aytiladi?",
+      "options": [
+        "Inson xulq – atvorining ichki barqarorligi harakatga undovchi kuchga",
+        "Insonning faolligiga",
+        "Mayillarga",
+        "Maqsadni ko‘zlab ish tutishga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "120",
+      "question": "O‘qituvchi va o‘quvchi muloqotini bog‘lovchi asosiy vosita?",
+      "options": [
+        "So‘z",
+        "Nutq",
+        "Dialog",
+        "Muloqot"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "121",
+      "question": "Inson ko‘nikma va malakalarining avtomatlashuviga nima deb aytiladi?",
+      "options": [
+        "Professional faoliyat",
+        "Malakalarning shakllanganligi",
+        "Ko‘nikmalarning faollashuvi",
+        "Harakatlar tezligi"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "122",
+      "question": "O‘quvchilarni qobiliyatlari, qiziqishlari va iste’dodlarini rivojlantirish asosan nimaga bog‘liq?",
+      "options": [
+        "Maqsadga muvofiq o‘quv-tarbiyaviy jarayonini tashkillashtirish va amalga oshirishga",
+        "Tabiiy layoqat nishonalariga",
+        "Egallangan bilim, malakalarning hajmiga",
+        "Tengdoshlari bilan muloqotda bo‘lishiga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "123",
+      "question": "Malaka deb nimaga aytiladi?",
+      "options": [
+        "Maqsadga muofiq xatti-xarakatlarning muvaffaqiyatli amalga oshirilishi",
+        "Mashq qilish natijasida yuzaga kelgan xatti-xarakatlarning avtomatlashuvi",
+        "Inson xulq – atvorining ichki barqarorligi va harakati",
+        "Bilimlarning rivojlanishi"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "124",
+      "question": "Muloqotning shaxslararo munosabatlarda bir-birlarini idrok etishlari va tushunishlari muloqotning qaysi turiga kiradi?",
+      "options": [
+        "Perseptiv",
+        "Kommunikativ",
+        "Interaktiv",
+        "Refleksiv"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "125",
+      "question": "Tarbiya tushinchasiga berilgan to‘g‘ri javobni belgilang?",
+      "options": [
+        "Bu shaxsning ijtimoiy, ma’naviy, ahloqiy, aqliy, jismoniy kamolotga erishishi",
+        "Kishilarni ijod qilishga, mehnat qilishga undaydigan jarayondir",
+        "Bilim, ko‘nikma va malakalarni shakllanishi",
+        "Kishilarni mehnat bilan shug‘ullanishga undaydigan jarayon"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part6": [
+    {
+      "question_id": "126",
+      "question": "Shaxsdagi tug‘malik alomatlari bor individual sifatlar qaysi?",
+      "options": [
+        "Layoqat, iqtidor, iste’dod, qobiliyat",
+        "Layoqat, iste’dod",
+        "Iste’dod",
+        "Iqtidor"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "127",
+      "question": "Nima orqali o‘quvchilarda ta’limga bo‘lgan munosabat yanada faol namoyon bo‘ladi?",
+      "options": [
+        "Dunyoqarash orqali",
+        "Qiziqish orqali",
+        "Layoqat orqali",
+        "E’tiqod orqali"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "128",
+      "question": "Darsning texnologik xaritasi nima uchun xizmat qiladi?",
+      "options": [
+        "O‘qituvchi va talaba faoliyati hamda unga taqsimlangan vaqt me’yorini har bir bosqich bo‘yicha to‘g‘ri belgilashga",
+        "Mashg‘ulotni me’yorida tashkil etishga",
+        "Vaqt me’yorini belgilash, bilim va ko‘nikmalarni egallashga",
+        "Talabalar faoliyatini faollashtirishga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "129",
+      "question": "O‘quvchilarda mantiqiy tafakkurni rivojlantirish uchun……?",
+      "options": [
+        "Xotira jarayonini takomillashtirish kerak",
+        "Bilish va fikrlash xususiyatlarini shakllantirish zarur",
+        "Individual psixologik xususiyatlarni rivojlantirish lozim",
+        "Idrokni o‘stirish kerak"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question_id": "130",
+      "question": "Shaxsning o‘qiganlari asosida mushohada qilgan bilim va g‘oyalari asosida yuritadigan fikrlash jarayoni……..?",
+      "options": [
+        "Mantiqiy tafakkur",
+        "Ijodiy tafakkur",
+        "Nazariy tafakkur",
+        "Amaliy tafakkur"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "131",
+      "question": "Tarbiyasi qiyin o‘smirlarni keltirib chiqaruvchi sabablarni aniqlang?",
+      "options": [
+        "Shaxsning biologik nuqsonlari, psixik kamolotdagi kamchiliklar, shaxsning tarbiyasidagi nuqsonlar, bilim olish faoliyatidagi kamchiliklar, maktab ta’limi va tarbiyasida kamchiliklar, maktabdan tashqari muhitdagi nuqsonlar",
+        "Shaxsning psixik o‘sishdagi kamchiliklar, aql-idrokning zaifligi, irodaning bo‘shligi, hissiyotning kuchsizligi, zarur ehtiyoj va qiziqishlarning mavjud emasligi",
+        "Maktabdan tashqari muhitning ta’siridagi nuqsonlar, chunonchi, oilada pedagogik-psixologik bilimlarning yetishmasligi, oilaviy nizolar, ajralish, ota-onaning ichkilikka berilishi, tengdoshlarning ta’siri",
+        "Psixik kamolotdagi kamchiliklar, bilim olish faoliyatidagi kamchiliklar, maktab ta’limi va tarbiyasida kamchiliklar, maktabdan tashqari muhitdagi nuqsonlar"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "132",
+      "question": "Laboratoriya mashg‘ulotlarining tavsifi keltirilgan javobni belgilang?",
+      "options": [
+        "Talabalar mustaqil ravishda vazifalarni bajaradilar yoki eksperiment o‘tkazadilar",
+        "Talabalar mustaqil amaliy ishlarni bajaradi",
+        "Tematik bog‘langan muntazam kurs chuqur o‘rganiladi",
+        "Bilimlarni mustaqil o‘zlashtiradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "133",
+      "question": "Ta’limga psixologik tayyorgarlik deganda nima nazarda tutiladi?",
+      "options": [
+        "Ta’limning metodlari, usullari va pedagogik muloqot usullari",
+        "Ta’lim beruvchi, ma’lumot usullari, o‘quv motivlari",
+        "Bolaning ob’ektiv va sub’ektiv jihatdan maktab talabiga munosibligi",
+        "Ma’lumot usullari, o‘quv motivlari, ta’limning metodlari, usullari"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question_id": "134",
+      "question": "Talaba shaxsining asosiy faoliyati qaysi?",
+      "options": [
+        "O‘qish",
+        "O‘yin",
+        "Mehnat",
+        "Hissiy munosabat"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "135",
+      "question": "O‘qituvchiga xos bo‘lgan shaxsiy xislatlarini to‘g‘ri belgilang?",
+      "options": [
+        "O‘qituvchining kuzatuvchanligi, o‘z diqqat e’tiborini taqsimlay olishi, o‘ziga tanqidiy munosabatda bo‘lishi, pedagogik takt, nutqning emosional ifodalanishi",
+        "Bolalarni yaxshi ko‘rishi, mehnatsevarlik, mehribonlik, kamtarlik",
+        "Bolalar jamoasini uyushtira bilishi, turli sharoitlarda bolalar jamoasini boshqara olish",
+        "O‘qituvchi o‘ziga tanqidiy munosabatda bo‘lishi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "136",
+      "question": "Yosh davrlari nimalarni to‘g‘ri belgilaydi?",
+      "options": [
+        "Chaqaloqlik, go‘daklik, bolalik, kichik maktab yoshi, o‘smirlik, o‘spirinlik, yetkinlik, keksalik davri",
+        "Chaqaloqlik, kichik maktabgacha davr, o‘smirlik davri",
+        "Bolalik, bog‘cha yoshi, maktabgacha davr, ilk o‘spirinlik davri",
+        "Chaqaloqlik, bolalik, o‘smirlik, qarilik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "137",
+      "question": "Pedagogik qobiliyatlarga nimalar kiradi?",
+      "options": [
+        "Didaktik qobiliyatlar, akademik qobiliyatlar, perseptiv qobiliyatlar, nutq qobiliyati, tashkilotchilik qobiliyati, avtoritar qobiliyat, kommunikativ qobiliyati, pedagogik hayol, diqqatni taqsimlay olish qobiliyati",
+        "Bolalarni yaxshi ko‘rishi, mehnatsevarlik, mehribonlik, kamtarlik",
+        "O‘qituvchilarning kuzatuvchanligi, o‘z diqqat e’tiborini taqsimlay olishi",
+        "Bolalarni yaxshi ko‘rishi, mehnatsevarlik, mehribonlik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "138",
+      "question": "Nutqning qanday turlari mavjud?",
+      "options": [
+        "Og‘zaki, ichki, yozma, tashqi nutq",
+        "Og‘zaki, ichki nutq",
+        "Ichki, yozma nutq",
+        "Yozma, tashqi nutq"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "139",
+      "question": "Ta’lim-tarbiyaga tadqiqiy ijodiy yondashuv nimalardan iborat?",
+      "options": [
+        "Bu yondashuv ta’limning maqsadi, talabada biror muammoni yechish qobiliyatini o‘stirish, yangi bilimni mustaqil o‘zlashtirish, harakatning yangi usullarini topish, shaxsan tashabbus ko‘rsatish",
+        "Talaba o‘z ilmiy ishlarini, natijalarini hayotga tatbiq etilishiga erishish",
+        "Talabalar ijodiy ishlarini, natijalarini rahbarlariga topshirishi",
+        "Mustaqil o‘zlashtirish, harakatning yangi usullarini topish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "140",
+      "question": "Akademik qobiliyatlarga ega bo‘lgan o‘qituvchi qanday bo‘lishi kerak?",
+      "options": [
+        "Matematika, fizika, biologiya, ona tili, adabiyot, tarix va boshqa fanlar sohasiga xos qobiliyatlariga ega bo‘lishi kerak",
+        "O‘quvchilarga bevosita emosional-irodaviy ta’sir etib, ularda obro‘ orttira bilishdan iborat qobiliyatlariga ega bo‘lishi kerak",
+        "Kishining o‘z his-tuyg‘ularini nutq yordamida, shu bilan birga mimika va pantomima yordamida aniq va ravshan qilib ifodalab berish qobiliyatiga ega bo‘lishi kerak",
+        "Mimika va pantomima yordamida aniq va ravshan qilib ifodalab berish qobiliyatiga ega bo‘lishi kerak"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "141",
+      "question": "Kadrlar tayyorlash tizimining bosh subyekti va obyekti qaysi qatorda keltirilgan?",
+      "options": [
+        "Shaxs",
+        "Inson",
+        "Odam",
+        "Individ"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "142",
+      "question": "Tafakkur hosil bo‘lishi uchun qanday fikr yuritish jarayonlari muhim deb hisoblaysiz?",
+      "options": [
+        "Analiz-sintez, taqqoslash, umumlashtirish, xulosa qilish",
+        "Taqqoslash va mavhumlash",
+        "Konkretlashtirish, tahlil qilish va sintezlash",
+        "Umumlashtirish va taqqoslash"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "143",
+      "question": "Faqat qaysi sohada yoshlarni huquqiy tarbiyasida muvaffaqiyatga erishish mumkin?",
+      "options": [
+        "Huquqiy tarbiya",
+        "Tarbiya",
+        "Ta’lim tarbiyaviy",
+        "Ta’lim"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "144",
+      "question": "Mehnat jarayonida kishining individual-psixologik xususiyatlarining yuzaga chiqishini psixologiya fanining qaysi sohasi o‘rganadi?",
+      "options": [
+        "Mehnat psixologiyasi",
+        "Injenerlik psixologiyasi",
+        "Ta’lim psixologiyasi",
+        "Umumiy psixologiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "145",
+      "question": "Qobiliyatni ilk va boshlang‘ich tarkibiy qismini toping?",
+      "options": [
+        "Iste’dod",
+        "Faoliyat",
+        "Qiziqish",
+        "Ziyraklik"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "146",
+      "question": "Pedagogik psixologiya nimalarni o‘rganadi?",
+      "options": [
+        "Ta’lim tarbiyaning psixologik qonuniyatlari va mexanizmlarini o‘rganadi",
+        "Psixik taraqqiyotning umumiy qonuniyatlarini o‘rganadi",
+        "Inson uzoq umr ko‘rishni o‘rganadi",
+        "Psixik rivojlanishni o‘rganadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "147",
+      "question": "“Ekologiya” terminini fanga qaysi olim birinchi bo‘lib kiritgan?",
+      "options": [
+        "Nemis olimi Ernest Gekkel",
+        "Rus pedagogi Makarenko",
+        "O‘zbek olimi A. Abduqodirov",
+        "Rus pedagogi O. Akulova"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "148",
+      "question": "Ta’lim jarayonining muvaffaqiyati nimalarga bog‘liq?",
+      "options": [
+        "Ta’limning metodlari, usullari va pedagogik muloqot usullari, ta’lim beruvchi va o‘quvchi munosabatlariga",
+        "Motivasiya, ma’lumot usullari, ma’lumotning tushunarliligi, xotira, ma’lumotni qo‘llashga",
+        "Ta’lim beruvchi, ma’lumot usullari, o‘quv motivlari, o‘qituvchining baholash mezonlariga",
+        "O‘qituvchining nazorati, motivasiya, xotira, ta’lim beruvchiga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "149",
+      "question": "Paralingvistik muloqotga nimalar kiradi?",
+      "options": [
+        "Tovush, imo-ishora, pantomimika",
+        "Imo-ishora",
+        "Pantomimika",
+        "Tovush"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "150",
+      "question": "O‘quv faoliyati motivasiyasining manbalari qaysilar?",
+      "options": [
+        "Ichki motivlar, tashqi motivlar va shaxsiy motivlar",
+        "Bilim ko‘nikma va malaka",
+        "Ustanovka, qadriyat, orttirilgan qobiliyat",
+        "Qobiliyat, ko‘nikma, malaka, shaxsiy motivlar"
+      ],
+      "correct_option": 0
+    }
+  ],
+  "part7": [
+    {
+      "question_id": "151",
+      "question": "Pedagogik mahorat bu nima?",
+      "options": [
+        "O‘qituvchilarni pedagogik faoliyatga tayyorlash taktikasi, pedagogik qobiliyatlarni shakllantirish, pedagogik madaniyat va texnikani tarkib toptirish hamda nutq texnikasini egallash yo‘llarini o‘rganadi",
+        "Maktabgacha ta’lim yoshidagi bolalarni tarbiyalash, ularni intellektual, ma’naviy-axloqiy va jismoniy jihatdan kamolotga yetkazish masalalarini o‘rganadi",
+        "Pedagogikaning konseptual masalalari va amaliy jihatlarini tadqiq etish",
+        "Pedagogikaning umumnazariy masalalari, qonuniyatlarini o‘rganadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "152",
+      "question": "Psixologiya fani qaysi fan negizida yuzaga kelgan?",
+      "options": [
+        "Falsafa",
+        "Siyosatshunoslik",
+        "Pedagogika",
+        "Anatomiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "153",
+      "question": "Bola tarbiyasida eng muhim ijtimoiy nazorat instituti nima?",
+      "options": [
+        "Oila",
+        "Bolalar uyi",
+        "Maktab",
+        "Mahalla"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "154",
+      "question": "Tarbiya qachon vujudga kelgan?",
+      "options": [
+        "Kishilik jamiyati paydo bo‘lishi bilan",
+        "Asrimiz boshlarida",
+        "Uyg‘onish davrida",
+        "Quldorlik tuzumi davrida"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "155",
+      "question": "Narsa va hodisalarni fikran qismlarga ajratish bilan bog‘liq bo‘lgan tafakkur jarayoniga nima deyiladi?",
+      "options": [
+        "Analiz",
+        "Sintez",
+        "Xulosa chiqarish",
+        "Deduksiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "156",
+      "question": "Tushuntirish, suhbat, namuna usullari tarbiya metodlarining qaysi guruhiga mansub?",
+      "options": [
+        "Shaxs ongini shakllantiruvchi metodlar",
+        "Faoliyatni tashkil etish va xulq-atvor tajribalarini shakllantirish metodlari",
+        "Xulq-atvorni va faoliyatni rag‘batlantirish metodlari",
+        "An’anaviy ta’lim metodlari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "157",
+      "question": "“Men” obrazi deganda nimani tushunasiz?",
+      "options": [
+        "O‘z – o‘zini anglash, o‘zidagi mavjud sifatlarni baholash",
+        "O‘zini anglash",
+        "Inson o‘zini mavjudligini anglashi",
+        "O‘ziga baho berish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "158",
+      "question": "Narsa va hodisalar ularning xususiyatlarini maqsad qo‘ymagan holda irodali zo‘riqishsiz esda olib qolish, esga tushirish, esda saqlashga nima deyiladi?",
+      "options": [
+        "Ixtiyorsiz xotira",
+        "Ixtiyoriy xotira",
+        "Eydetik xotira",
+        "Obrazli xotira"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "159",
+      "question": "Ijtimoiylashuv deganda nimani tushunasiz?",
+      "options": [
+        "Inson tomonidan ijtimoiy tajribani egallash, jamiyatga qo‘shilish",
+        "Jamiyatga qo‘shilish",
+        "Odamlar o‘rtasidagi muloqot",
+        "Shaxsning ichki ruhiyati"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "160",
+      "question": "Idrok deb nimaga aytiladi?",
+      "options": [
+        "Sezgi a’zolarimizga ta’sir etayotgan narsa va hodisalarning miyamizda yaxlit o‘brazini aks etishiga aytiladi",
+        "Biror sezgi a’zoimizga ta’sir etgan narsa hodisalarga aytiladi",
+        "Tashqi olamdagi narsalarni aks ettirishda sezgilar yig‘indisi",
+        "Predmetlarning xususiyat va sifatlarini birgalikda aks ettirish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "161",
+      "question": "To‘garaklar, klublar, olimpiadalar, viktorinalar, ko‘rgazmalar, ekspeditsiyalar va hokazolar ta’limni tashkil etishning qaysi shakliga misol bo‘la oladi?",
+      "options": [
+        "Yordamchi",
+        "Frontal",
+        "Asosiy",
+        "Guruhiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "162",
+      "question": "“Individ” tushinchasi qanday ma’noni anglatadi?",
+      "options": [
+        "Tirik biologik mavjudot",
+        "Tirik hayvon",
+        "O‘simliklar dunyosi",
+        "Tirik odam"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "163",
+      "question": "Inson faolligi qanday turlarga bo‘linadi?",
+      "options": [
+        "Tashqi va ichki faollikga",
+        "Harakatning faolligiga",
+        "Tashqi faollikga",
+        "Ichki faollikga"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "164",
+      "question": "Quyidagi oliy nerv faoliyati tipining qaysi temperamentga to‘g‘ri kelishini ko‘rsating: kuchli, muvozanatli, inert, tormozlanish qo‘zg‘alishdan ustun?",
+      "options": [
+        "Xolerik",
+        "Sangvinik",
+        "Melanxolik",
+        "Flegmatik"
+      ],
+      "correct_option": 3
+    },
+    {
+      "question_id": "165",
+      "question": "Markaziy nerv sistemasiga nima orqali ma’lumot yetib boradi?",
+      "options": [
+        "Analizatorlar orqali",
+        "Nerv tolalar orqali",
+        "Neyronlar orqali",
+        "Nerv hujayralari orqali"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "166",
+      "question": "Inson xulq-atvori va faolligini tushuntirib beruvchi psixologik sabablar majmuiga nima deyiladi?",
+      "options": [
+        "Motivasiya",
+        "Motiv",
+        "Harakatlar",
+        "Xulq-atvor"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "167",
+      "question": "”Individuallik” tushinchasi qanday ma’noni anglatadi?",
+      "options": [
+        "Konkret odamni boshqa odamdan ajratib turuvchi o‘ziga xos xususiyatlar majmui",
+        "Konkret odamni",
+        "Shaxs",
+        "Muhit"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "168",
+      "question": "Shaxs ongining psixik bir tomonlama yo‘nalganligiga nima deyiladi?",
+      "options": [
+        "Diqqat",
+        "Idrok",
+        "Tafakkur",
+        "Xotira"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "169",
+      "question": "Qobiliyatdagi orttirilgan sifatlar shaxsda nimani ta’minlab beradi?",
+      "options": [
+        "Muvaffaqiyatni",
+        "Faoliyatni",
+        "Ish-harakatni",
+        "Faollikni"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "170",
+      "question": "Nasldan-naslga o‘tuvchi, biologik ehtiyojlarni qondirishga yo‘naltirilgan, shartsiz reflekslarga asoslangan murakkab tug‘ma xatti-harakat shakllariga nima deyiladi?",
+      "options": [
+        "Instinktlar",
+        "Ko‘nikmalar",
+        "Reflekslar",
+        "Odatlar"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "171",
+      "question": "Insonning biologik mohiyatini o‘zida aks ettiruvchi sifatga nima deyiladi?",
+      "options": [
+        "Individ",
+        "Individuallik",
+        "Shaxs",
+        "Inson"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "172",
+      "question": "Biror sezgi organini kuzatganda ikkinchi sezgi organiga xos sezgining hosil bo‘lishiga nima deyiladi?",
+      "options": [
+        "Sinesteziya",
+        "Adaptasiya",
+        "Appersepsiya",
+        "Sensibilizasiya"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "173",
+      "question": "XXI asrda axborotlarning ko‘pligi nimani o‘zgartiradi?",
+      "options": [
+        "Axborotlar uzatilishi va tempini o‘zgartiradi",
+        "Axborotni o‘zgartiradi",
+        "Muloqotni o‘zgartiradi",
+        "Harakatni o‘zgartiradi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "174",
+      "question": "Sezgilarning turlari: ekstrioseptiv, introseptiv, …. tushib qoldirilganini toping?",
+      "options": [
+        "Proprioseptiv",
+        "Ko‘rish",
+        "Malaka",
+        "Hid bilish"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "175",
+      "question": "Shaxsdagi fikrlash elementlariga yangilik, noyoblik, qaytarilmaslik qo‘shilgandagi tafakkurga nima deyiladi?",
+      "options": [
+        "Amaliy tafakkur",
+        "Nazariy tafakkur",
+        "Reproduktiv tafakkur",
+        "Ijodiy tafakkur"
+      ],
+      "correct_option": 3
+    }
+  ],
+  "part8": [
+    {
+      "question_id": "176",
+      "question": "Faoliyatning maqsadiga ko‘ra xotira turlarini aniqlang?",
+      "options": [
+        "Ixtiyorsiz va ixtiyoriy",
+        "So‘z-mantiqiy va harakat",
+        "Qisqa muddatli va uzoq muddatli",
+        "Obrazli va mantiqiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "177",
+      "question": "Pedagogika qaysi fanlar bilan o‘zaro bog‘liq?",
+      "options": [
+        "Psixologiya, biologiya, matematika, falsafa, tarix",
+        "Biologiya, matematika",
+        "Matematika, falsafa",
+        "Falsafa, tarix"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "178",
+      "question": "Tafakkur mantiqiy shakllari qaysilar?",
+      "options": [
+        "Tushuncha, hukm, xulosa",
+        "Mulohaza, nutq, xulosa",
+        "Tushuncha, so‘z, hukm",
+        "Xulosa, fikr, hukm"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "179",
+      "question": "Amaliy psixologiyaning asosiy yo‘nalishlariga nimalar kiradi?",
+      "options": [
+        "Oila, sanoat psixologiyasi, ishlab chiqarish sohalari",
+        "Marketing xizmatlari",
+        "Oila, sanoat psixologiyasi",
+        "Ishlab chiqarish sohalari"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "180",
+      "question": "Modellashtirish metodiga nimalar kiradi?",
+      "options": [
+        "Matematik, mantiqiy, texnik, kibernetik",
+        "Mantiqiy, texnik",
+        "Texnik, kibernetik",
+        "Matematik, mantiqiy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "181",
+      "question": "Perseptiv qobiliyat nima?",
+      "options": [
+        "Qisqa daqiqalarda auditoriya holatini idrok qilish",
+        "O‘z fanini chuqur va keng hajmda bilish va darsda predmetlararo bog‘lanishlarni amalga oshirish",
+        "Tashkiliy ishlarni uyushtirish va unga rahbarlik qilish",
+        "Barcha o‘quvchilar e’tiborini bir maqsadga yo‘naltira olish qobiliyati"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "182",
+      "question": "Psixikaning bilish jarayonlarini ko‘rsatib bering?",
+      "options": [
+        "Diqqat, xotira, sezgi, idrok, tafakkur",
+        "Xayol, adaptasiya, iroda, qiziqish",
+        "Sezgi, diqqat, faollik, tafakkur",
+        "Hissiyot, xayol, idrok"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "183",
+      "question": "Boshqaruv psixologiyasining qanday turlari mavjud?",
+      "options": [
+        "Avtoritar, demokratik, liberal",
+        "Liberal",
+        "Demokratik",
+        "Avtoritar"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "184",
+      "question": "Markaziy nerv sistemasiga nima kiradi?",
+      "options": [
+        "Bosh miya yarim sharlari va orqa miya",
+        "Orqa miya va neyron",
+        "Periferik nerv tizimi",
+        "Vegetativ nerv tizimi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "185",
+      "question": "O‘zbekistonda pedagogika fanining rivojlanish davrlarini ko‘rsating?",
+      "options": [
+        "Oktyabr to‘ntarishigacha bo‘lgan davr, sho‘rolar davri, mustaqillik davri",
+        "Sho‘rolar davri",
+        "Mustaqillik davri",
+        "Oktyabr to‘ntarishigacha bo‘lgan davr"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "186",
+      "question": "Hissiy holatlarga nimalar kiradi?",
+      "options": [
+        "Kayfiyat, affekt, stress, jiddiylik",
+        "Chidamlilik, qo‘rquv, sabr-toqat",
+        "Mustaqillik, qo‘rquv, stress",
+        "Mardlik, burch, g‘azab"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "187",
+      "question": "Xayolning qanday turlari mavjud?",
+      "options": [
+        "Ixtiyoriy, ixtiyorsiz, qayta tiklovchi, ijodiy, aktiv, passiv",
+        "Obrazli, qayta tiklovchi, nazariy, obrazli, fantastik",
+        "Ixtiyorsiz, ijodiy, orzu, aktiv, passiv",
+        "Passiv, ixtiyorsiz, fantastik, ko‘rgazmali"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "188",
+      "question": "Amir Temurning tug‘ilgan yili, oyi, kuni qaysi bandda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "1336 yil 9 aprel",
+        "1236 yil 17 may",
+        "1336 yil 19 aprel",
+        "1300 yil 29 aprel"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "189",
+      "question": "O‘quv jarayonini psixologik ta’minlash bu-…………?",
+      "options": [
+        "O‘quv faoliyati motivlarini aniqlashga ehtiyoj uyg‘otish va o‘quv faoliyatining ijobiy emotsional ruhda kechishi uchun shart-sharoitlar yaratish",
+        "O‘quv jarayonini psixologik turkum, ishlanmalar bilan ta’minlash",
+        "O‘quv faoliyatining ijobiy ruhda kechishi uchun shart-sharoit yaratish",
+        "O‘quv faoliyati motivlarini aniqlash"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "190",
+      "question": "Sportchilarni irodaviy kuchli qilib tarbiyalashda psixologiyaning qaysi tarmog‘i shug‘ullanadi?",
+      "options": [
+        "Sport psixologiyasi",
+        "Mehnat psixologiyasi",
+        "Bolalar psixologiyasi",
+        "Meditsina psixologiyasi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "191",
+      "question": "Markaziy Osiyoda psixologiya faniga kim asos solgan?",
+      "options": [
+        "Abu Ali Ibn Sino",
+        "Al Xorazmiy",
+        "Farobiy",
+        "Beruniy"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "192",
+      "question": "Og‘zaki ta’lim metodlari qaysi javobda ko‘rsatilgan?",
+      "options": [
+        "Hikoya, suhbat, ma’ruza",
+        "Ma’ruza, seminar, laboratoriya ishi",
+        "Ma’ruza, trening, suhbat",
+        "Hikoya, suhbat, mashq"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "193",
+      "question": "O‘quvchilarning ijodiy imkoniyatlarini o‘stirishda pedagog avvalo qanday qobiliyatga ega bo‘lishi lozim?",
+      "options": [
+        "Muomala va muloqot o‘rnatish qobiliyati",
+        "Oson yo‘l bilan murakkab bilimlarni tushuntirish qobiliyati",
+        "Tashabbusga, ijodga ilhomlantirish qobiliyati",
+        "O‘z munosabatini bildira olish qobiliyati"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question_id": "194",
+      "question": "Psixologiyada dori-darmonsiz davolashga nima deyiladi?",
+      "options": [
+        "Psixoterapiya",
+        "Psixotrening",
+        "Trening",
+        "Psixodiagnostika"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "195",
+      "question": "Inson faoliyatini qaysi faoliyat turlari tashkil etadi?",
+      "options": [
+        "O‘yin, o‘qish, mehnat",
+        "O‘qish, mehnat",
+        "Mehnat, faoliyat",
+        "Ko‘nikma va malakalar"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "196",
+      "question": "Shaxs bu-……?",
+      "options": [
+        "Shaxslararo va ijtimoiy munosabatlarning sub’ekti bo‘lgan, ongli faoliyat ko‘rsata oladigan betakror individdir",
+        "Ma’lum psixik rivojlanish darajasiga erishgan odamdir",
+        "Barcha ijtimoiy munosabatlar majmuidir",
+        "Jamiyatning qobiliyatli a’zosidir"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "197",
+      "question": "Kar va soqovlar bilan pedagogikaning qaysi maxsus tarmog‘i shug‘ullanadi?",
+      "options": [
+        "Surdopedagogika",
+        "Tiflopedagogika",
+        "Defektologiya",
+        "Oligofrenopedagogika"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "198",
+      "question": "Oligofrenopedagogika qanday nuqsonli bolalar bilan shug‘ullanadi?",
+      "options": [
+        "Aqli zaif bolalar bilan shug‘ullanadi",
+        "Ko‘zi ojiz bolalar bilan shug‘ullanadi",
+        "Kar va soqov bolalar bilan shug‘ullanadi",
+        "Nuqsonli bolalar bilan shug‘ullanadi"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "199",
+      "question": "Nuqson va kamchiligi mavjud bo‘lgan bolalar bilan pedagogikaning qaysi maxsus tarmog‘i shug‘ullanadi?",
+      "options": [
+        "Defektologiya",
+        "Oligofrenopedagogika",
+        "Surdopedagogika",
+        "Tiflopedagogika"
+      ],
+      "correct_option": 0
+    },
+    {
+      "question_id": "200",
+      "question": "Hozirgi kunda ijtimoiy psixologiya fani hal etayotgan masalalar?",
+      "options": [
+        "Kadrlar tayyorlash va joy-joyiga qo‘yish, nizo va oila muammolari, muomala va rahbar xodimlar o‘rtasidagi munosabatlar",
+        "Mehnatni ilmiy asosida tashkil etish",
+        "Rivojlanayotgan kishi shaxsining psixologik fazilatlarini",
+        "Psixik jarayon va xususiyatlar"
+      ],
+      "correct_option": 0
+    }
+  ]
+}
